@@ -1,0 +1,8 @@
+# Exclude compiled Java files
+*.class
+
+# Allow Java source files
+!*.java
+
+# Allow Powershell scripts
+!*.ps1
