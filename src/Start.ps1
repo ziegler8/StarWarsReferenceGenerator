@@ -1,3 +1,0 @@
-javac Main.java;
-clear;
-java Main;
